@@ -8,7 +8,7 @@
 
 # Overview
 
-This roadmap is based on the Virginia Tech AI & Machine Learning Bootcamp curriculum and enhanced with additional industry-relevant skills:
+This is a AI & Machine Learning Bootcamp curriculum and enhanced with additional industry-relevant skills:
 
 - Python
 - SQL
